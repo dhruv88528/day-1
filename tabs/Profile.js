@@ -5,7 +5,7 @@ import React from 'react'
 const Profile = () => {
   return (
     <View>
-      <Text>Profile</Text>
+      <Text style={{ fontSize: 24, fontWeight: 'bold' , textAlign: 'center', justifyContent: 'center', alignItems: 'center', }}>Profile</Text>
     </View>
   )
 }

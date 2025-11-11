@@ -35,9 +35,9 @@ const HomeScreen = ({ navigation }) => {
       </View>
 
      
-      <View style={{ position: "absolute", bottom: 0, left: 0, right: 0 }}>
+      {/* <View style={{ position: "absolute", bottom: 0, left: 0, right: 0 }}>
         <BottomTab />
-      </View>
+      </View> */}
     </View>
   );
 };
